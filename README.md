@@ -16,7 +16,7 @@ const info = {
 ### Dev tools 💻
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com)
 [![Code](https://img.shields.io/badge/Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Code")](https://code.visualstudio.com)
-[![Postman](https://img.shields.io/badge/Postman-E05320?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://code.visualstudio.com)
+[![Postman](https://img.shields.io/badge/Postman-E05320?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://postman.com)
 [![Docker](https://img.shields.io/badge/docker-81C6E8?style=for-the-badge&logo=docker&logoColor=white "Docker")](https://docker.com)
 [![IntelliJ](https://img.shields.io/badge/Intellij-BC42AB?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij Idea")](https://jetbrains.com/idea)
 [![Heroku](https://img.shields.io/badge/Heroku-79589F?style=for-the-badge&logo=heroku&logoColor=white "Heroku")](https://heroku.com)
