@@ -2,7 +2,7 @@
 const info = {
     realName: 'Pushkar Zalte',
     nickname: 'Zeek/Zweak',
-    age: 20,
+    age: 21,
     gender: 'male',
     occupation: 'uni student',
     interestedIn: ['javascript', 'typescript', 'golang', 'linux', 'python', 'dart', 'nodejs', 'bash'],
