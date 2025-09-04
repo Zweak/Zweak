@@ -2,11 +2,11 @@
 const info = {
     realName: 'Pushkar Zalte',
     nickname: 'Zeek/Zweak',
-    age: 22,
+    age: 23,
     gender: 'male',
-    interestedIn: ['javascript', 'typescript', 'golang', 'linux', 'python', 'dart', 'nodejs', 'bash'],
+    interestedIn: ['java', 'javascript', 'golang', 'linux', 'python', 'nodejs', 'bash'],
     currentlyLearning: 'everything 😂',
-    discord: 'Zeek#2869'
+    discord: 'zweak'
 };
 ```
 
